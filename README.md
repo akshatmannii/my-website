@@ -1,2 +1,1 @@
-# Akshat Mani Portfolio
-Upload to GitHub Pages and connect akshatmannii.in
+GitHub Pages ready portfolio for akshatmannii.in

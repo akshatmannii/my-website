@@ -1,1 +1,1 @@
-console.log('Akshat Mani Portfolio');
+// Portfolio JS
